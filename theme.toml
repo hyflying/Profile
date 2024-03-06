@@ -39,7 +39,7 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
+  name = "Yanfei Huang"
   homepage = "https://georgecushen.com"
 
 # If porting an existing theme
