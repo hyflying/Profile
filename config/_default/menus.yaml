@@ -16,9 +16,9 @@ main:
   - name: Experience
     url: '#experience'
     weight: 35
-  - name: Gallery
-    url: '#gallery'
-    weight: 50
+  #- name: Gallery
+  #  url: '#gallery'
+   # weight: 50
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
