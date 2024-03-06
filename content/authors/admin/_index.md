@@ -25,7 +25,7 @@ organizations:
     url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Yesterday is history. Tomorrow is a mystery. But today is a gift. That is why it's called the present.
 
 # Interests to show in About widget
 interests:
@@ -46,50 +46,42 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming Language
     items:
       - name: Java
         description: ''
-        percent: 100
-        icon: java
+        percent: 80
       - name: Objective-C/Swift
         description: ''
-        percent: 80
-        icon: apple
+        percent: 70
+      - name: C/C++
+        description: ''
+        percent: 70
       - name: Python
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        percent: 90
+      - name: Typescript
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+        percent: 90
       - name: SQL
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
+        percent: 60
+  - name: Framework
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: React.js
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: React Native
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        percent: 90
+      - name: SpringBoot
+        description: ''
+        percent: 90
+      - name: Spring
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -125,5 +117,10 @@ social:
 highlight_name: true
 ---
 
-This is Evan. My journey in Computer Science began at the Dalian University of Technology, where I completed my Bachelor's degree in Computer Science and Technology. I am currently pursuing a Master's degree in Computer Science at the University of Southern California.My career kick-started as an Intern with Meituan and thereafter I moved on to a role of an iOS Developer.Driven by ambition and an unwavering commitment to excellence, I'm dedicated to expanding my skill set and knowledge base daily. My thirst for new experiences fuels my desire to develop cutting-edge software applications, and actively contribute innovative ideas that enhance product quality.I am actively seeking 2024 summer internship opportunities now!
-{style="text-align: justify;"}
+This is  Evan. My tech adventure began after earning dual bachelor's degrees in Computer Science and Japanese at DLUT.  Yes, I can code and say "Hello, World!" in Japanese!
+
+I joined Meituan as an iOS developer after finishing my undergraduate studies. During the 2022 Shanghai lockdown, our app, Meituan Grocery, became a lifeline for thousands trapped at home. This experience cemented my belief in the power of technology to change lives, one app at a time.  Eager to level up my tech skills and broaden my horizons, I bid farewell to Meituan and set sail for the US to pursue my graduate studies. 
+
+I'm currently seeking summer 2024 internship opportunities. Feel free to reach out to me for any exciting opportunities. Let's improve the digital world a better place, one line of code at a time!
+
+{style="line-height: 100; text-align: justify;"}
