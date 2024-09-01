@@ -64,6 +64,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: SDE intern
+          company: Amazon
+          company_url: 'https://www.aboutamazon.com/'
+          company_logo: amazon
+          location: Beijing
+          date_start: '2024-06-03'
+          date_end: '2024-08-23'
+          description: |3-
+              Responsibilities include:
+
+              * Developed features for cross-border transaction system using Java, Kotlin, and various AWS tools including Simple Queue Service, EventBridge, DynamoDB, Lambda, and S3
+
+              * Upgraded 6 services from JDK 8 to JDK 17, achieving an average reduction of 10% in P99 latency and CPU utilization
+
+              * Refined the event publishing logic in existing code resolving a critical severity level 2 issue caused by DynamoDB throttling
         - title: iOS developer
           company: Meituan
           company_url: 'https://www.meituan.com/'

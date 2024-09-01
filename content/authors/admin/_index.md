@@ -50,7 +50,7 @@ skills:
     items:
       - name: Java
         description: ''
-        percent: 80
+        percent: 90
       - name: Objective-C/Swift
         description: ''
         percent: 70
@@ -62,7 +62,7 @@ skills:
         percent: 90
       - name: Typescript
         description: ''
-        percent: 90
+        percent: 80
       - name: SQL
         description: ''
         percent: 60
@@ -70,6 +70,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: AWS tools
+        description: 'Simple Queue Service, Lambda, EventBridge, DynamoDB'
+        percent: 80
       - name: React.js
         description: ''
         percent: 60
@@ -109,9 +112,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
- # - icon: cv
- #   icon_pack: ai
- #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/EvanHuang.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -121,6 +124,6 @@ This is  Evan. My tech adventure began after earning dual bachelor's degrees in 
 
 I joined Meituan as an iOS developer after finishing my undergraduate studies. During the 2022 Shanghai lockdown, our app, Meituan Grocery, became a lifeline for thousands trapped at home. This experience cemented my belief in the power of technology to change lives, one app at a time.  Eager to level up my tech skills and broaden my horizons, I bid farewell to Meituan and set sail for the US to pursue my graduate studies. 
 
-I'm currently seeking summer 2024 internship opportunities. Feel free to reach out to me for any exciting opportunities. Let's improve the digital world a better place, one line of code at a time!
+I'm currently seeking 2025 new grad opportunities. Feel free to reach out to me for any exciting opportunities. Let's improve the digital world a better place, one line of code at a time!
 
 {style="line-height: 100; text-align: justify;"}
